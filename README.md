@@ -5,10 +5,10 @@ This repo is open and transparent to the world. If you're looking for marketing 
 ## Description
 
 ### One Sentence Pitch
-Build apps in   
+Realtime Backend for JavaScript apps.
 
 ### Small Description (140 characters)
-CloudBoost let's developers build apps 
+CloudBoost is a realtime backend for JavaScript apps. It helps developers build web or mobile apps in half less time. 
 
 ### Description (500 characters)
 Fyipe gives you a beautiful and customizable status page for your online business which helps improve transparency with your customers and cuts support costs.
