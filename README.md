@@ -66,10 +66,10 @@ Please find them [here](/covers)
 
 ## Reviews
 
-- AlternativeTo: https://alternativeto.net/software/fyipe/
-- Capterra: https://www.capterra.com/p/176513/Fyipe/
-- G2Crowd: https://www.g2crowd.com/products/fyipe/reviews
-- StackShare: https://stackshare.io/fyipe
+- AlternativeTo: https://alternativeto.net/software/cloudboost-io/
+- Capterra: https://www.capterra.com/p/165669/CloudBoost/
+- G2Crowd: https://www.g2crowd.com/products/cloudboost
+- StackShare: https://stackshare.io/cloudboost
 
 
 ## Social Media
