@@ -17,11 +17,11 @@ CloudBoost is a realtime backend for JavaScript helps. It helps JavaScript devel
 
 ### 250 characters
 
-Fyipe is a Status Page, Monitoring and On-call software all combined into one. Fyipe replaces services like StatusPage.io, PagerDuty,Pingdom with one simple platform that lets you monitor your apps and alert your team instantly when downtime happens.
+CloudBoost has storage, files, realtime, search, and offline sync built into one simple API. Developers don't have to use multiple services like -  Amazon S3, DynamoDB / MongoDB, Algolia / ElasticSearch, Socket.io to build their app. 
 
 ### 500 characters
 
-Fyipe is a Status Page, Monitoring and On-call software all combined into one. Today, Enterprises and Startups use a services like StatusPage.io, Status.io, etc. for a hosted status page, PagerDuty for On-call alerts during downtime, and Pingdom for website monitoring. Fyipe replaces all of these and combines them into one. You have everything you need to monitor your apps, website and API's and more, and alert your team instantly when downtime happens. 
+CloudBoost has storage, files, realtime, search, and offline sync built into one simple API. Developers don't have to use multiple services like -  Amazon S3, DynamoDB / MongoDB, Algolia / ElasticSearch, Socket.io to build their app. CloudBoost takes care of more than 90% of their app development needs for them and gives them one user friendly dashboard to manage their app. 
 
 ## Target Market
 
@@ -39,10 +39,14 @@ Fyipe is currently being used by hundreds of startups and enterprises around the
 
 #### (250 characters)
 
-We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens. We're suited for scenerios where downtime resolution is critial for the business, customers and the bottom line. 
+We are ideally suited for teams who want to build apps without worrying about the backend, servers, databases. Teams ideally dont need to hire backend or dev-ops team when they use CloudBoost. This saves them more than 50% of development costs, time and cuts their team in half making them more agile. 
 
 #### (200 characters)
-We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens.
+We are ideally suited for teams who want to build apps without worrying about the backend, servers, databases. Teams ideally dont need to hire backend or dev-ops team when they use CloudBoost.
+
+### Integrations 
+
+Integrate with 1000+ enterprise class apps and services with [Zapier](https://zapier.com).  
 
 ### Integrations 
 
@@ -52,8 +56,17 @@ Integrate with 1000+ enterprise class apps and services with [Zapier](https://za
 
 Please find them [here](/logos)
 
+## Partner Logos
+
+Please find them [here](/partner-logos)
+
+## Cover Images
+
+Please find them [here](/covers)
+
 ## Reviews
 
 - AlternativeTo: https://alternativeto.net/software/fyipe/
 - Capterra: https://www.capterra.com/p/176513/Fyipe/
 - G2Crowd: https://www.g2crowd.com/products/fyipe/reviews
+- StackShare: https://stackshare.io/fyipe
