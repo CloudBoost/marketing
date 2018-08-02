@@ -8,11 +8,10 @@ This repo is open and transparent to the world. If you're looking for marketing 
 Realtime Backend for JavaScript apps.
 
 ### Small Description (140 characters)
-CloudBoost is a realtime backend for JavaScript apps. It helps developers build web or mobile apps in half less time. 
+CloudBoost is a realtime backend for JavaScript apps. It helps developers build apps in half less time. 
 
 ### Description (500 characters)
-Fyipe gives you a beautiful and customizable status page for your online business which helps improve transparency with your customers and cuts support costs.
-We also monitors your website, web apps, API's and more and alerts your team via call, SMS and email when downtime happens. 
+CloudBoost is a realtime backend for JavaScript helps. It helps JavaScript developers build web or mobile apps in half less time. CloudBoost let's developers integrate Data Storage, Files, Authentication, Realtime, Offline Sync, Search and more into their apps with one simple API.  
 
 ## Product Differentiators
 
