@@ -1,6 +1,6 @@
 # CloudBoost Marketing
 
-This repo is open and transparent to the world. If you're looking for marketing materials of Fyipe like logos, description and more. It's all here in this repo. 
+This repo is open and transparent to the world. If you're looking for marketing materials of CloudBoost like logos, description and more. It's all here in this repo. 
 
 ## Description
 
@@ -70,3 +70,15 @@ Please find them [here](/covers)
 - Capterra: https://www.capterra.com/p/176513/Fyipe/
 - G2Crowd: https://www.g2crowd.com/products/fyipe/reviews
 - StackShare: https://stackshare.io/fyipe
+
+
+## Social Media
+
+- Twitter: https://twitter.com/CloudBoostio
+- Facebook: https://www.facebook.com/cloudboost.io/
+- LinkedIn: https://www.linkedin.com/company/cloudboost/
+
+## More
+- Website: https://cloudboost.io
+- GitHub: https://github.com/cloudboost
+- Blog: https://blog.cloudboost.io
