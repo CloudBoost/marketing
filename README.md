@@ -11,7 +11,7 @@ Realtime Backend for JavaScript apps.
 CloudBoost is a realtime backend for JavaScript apps. It helps developers build apps in half less time. 
 
 ### Description (500 characters)
-CloudBoost is a realtime backend for JavaScript helps. It helps JavaScript developers build web or mobile apps in half less time. CloudBoost let's developers integrate Data Storage, Files, Authentication, Realtime, Offline Sync, Search and more into their apps with one simple API.  
+CloudBoost is a realtime backend for JavaScript apps. It helps JavaScript developers build web or mobile apps in half less time. CloudBoost let's developers integrate Data Storage, Files, Authentication, Realtime, Offline Sync, Search and more into their apps with one simple API.  
 
 ## Product Differentiators
 
